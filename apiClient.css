@@ -1,0 +1,11 @@
+.message_box {
+    border: solid 1px red;
+}
+
+.content {
+    border: solid 1px blue;
+}
+
+.user {
+    border: solid 1px yellow;
+}
